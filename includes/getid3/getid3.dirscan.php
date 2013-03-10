@@ -246,7 +246,7 @@ if (PHP_SAPI=== 'cli') {
             $dir=$argv[1];
         } 
         if (count(explode(',', $argv[2]))> 0) {
-            $media=$arg[2];
+            $media=$argv[2];
         } 
     }
     echo " * Starting to scan directory: ".$dir."\n"; 

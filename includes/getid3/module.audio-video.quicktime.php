@@ -2130,5 +2130,5 @@ echo 'QuicktimeParseNikonNCTG()::unknown $data_size_type: '.$data_size_type.'<br
 	}
 
 }
-
+ 
 ?>
